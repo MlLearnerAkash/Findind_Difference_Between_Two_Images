@@ -1,9 +1,9 @@
-# Findind_Difference_Between_Two_Images
+# Finding_Difference_Between_Two_Images
 
 
 * The two images that I have used are given below:
 
-![ZysEk](https://user-images.githubusercontent.com/81233167/115962664-1f7e7700-a53a-11eb-806d-1ea675cd387c.png)
+![Fwk7J](https://user-images.githubusercontent.com/81233167/115963015-8cded780-a53b-11eb-8ddb-479c88f00bf5.jpg)
 
 and
 
